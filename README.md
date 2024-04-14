@@ -1,6 +1,6 @@
-# Shopping Cart Project
+# Shopper - an E-commerce Website clone
 
-Welcome to the Shopping Cart project! This is a React-based web application developed as part of my internship at ineuron.ai. The project aims to create an interactive shopping experience where users can add, increase, decrease, and remove items from their cart. It utilizes HTML, CSS, JavaScript, and React with the useContext hook for efficient state management.
+Welcome to the Shopper! This is a React-based web application developed as part of my internship at ineuron.ai. The project aims to create an interactive shopping experience where users can add, increase, decrease, and remove items from their cart. It utilizes HTML, CSS, JavaScript, and React with the useContext hook for efficient state management.
 
 ## Features
 
